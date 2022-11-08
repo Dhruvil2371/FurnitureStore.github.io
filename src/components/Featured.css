@@ -1,0 +1,33 @@
+.hello {
+    /* position: relative; */
+    width: 300px;
+    height: 300px;
+    margin-right: 20px;
+    /* margin-bottom: 50px; */
+}
+
+.desc {
+font-weight: 400;
+font-size: 14px;
+line-height: 14px;
+position: absolute;
+width: 271px;
+height: 14px;
+/* left: 285px; */
+top: 280px;
+/* identical to box height, or 100% */
+
+/* display: flex; */
+/* align-items: center; */
+letter-spacing: 0.15em;
+text-align: left;
+color: #000000;
+}
+
+.F-image {
+    height: 300px;
+}
+
+.checked{
+    color: yellow;
+}

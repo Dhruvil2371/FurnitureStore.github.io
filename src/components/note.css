@@ -1,0 +1,44 @@
+ .outside-wrapper {
+    /* position: absolute; */
+    /* top: 3800px; */
+    /* width: 1200px; */
+    display: flex;
+    flex-direction: row;
+    /* margin-left: 15px; */
+    /* margin-bottom: 0px; */
+    /* justify-content: flex-end; */
+    /* margin: 40px; */
+}
+
+.not {
+    display: flex;
+    flex-direction: row;
+    margin-right: 30px;
+}
+
+.inside-wrapper {
+    display: flex;
+    flex-direction: column;
+    margin: 0px ;
+    text-align: left;
+}
+
+div.inside-wrapper > p {
+    margin: 0px;
+}
+
+i {
+    margin-top :5px;
+    margin-right: 1px ;
+   
+}
+
+.circle {
+     margin-top: 5px;
+    /* margin-right: 10px;  */
+    height: 30px;
+    width: 30px;
+    background-color: #bbb;
+    border-radius: 50%;
+    /* display: inline-block; */
+}

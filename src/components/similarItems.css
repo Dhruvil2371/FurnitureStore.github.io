@@ -1,0 +1,42 @@
+.sim-image {
+    width: auto;
+    height: 50px;
+    border-radius: 2px;
+    border-style: solid;
+    border-color: black;
+    margin: 0px 20px;
+}
+
+.sim-title {
+    /* position : absolute; */
+    left: 50%;
+    top: 50%;
+    transform: translate(50%,500%);
+    box-sizing: border-box;
+
+width: 140.53px;
+height: 31.87px;
+
+/* margin-top: 10px; */
+background: #FFFFFF;
+border: 1px solid #000000;
+font-weight: 700;
+font-size: 12px;
+line-height: 12px;
+/* or 100% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.21em;
+
+color: #000000;
+}
+
+.div-similar {
+    border-radius: 2px;
+    border-style: solid;
+    border-color: black;
+    height: 300px;
+    margin-bottom: 50px;
+    margin-right: 20px;
+}
